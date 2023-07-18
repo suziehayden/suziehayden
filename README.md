@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently searching for my first development opportunity<br>👯 I’m looking to collaborate with an experienced team<br>🤝 I’m looking for help with advancing my knowledge base<br>🌱 I’m currently learning GitHub 😼<br>💬 Ask me about WordPress<br>⚡ Fun fact - I love teaching youngsters to ride horses
+🔭 I am currently searching for my first development opportunity<br>👯 I’m looking to collaborate with an experienced team<br>🤝 I’m looking for help with advancing my knowledge base<br>🌱 I’m currently working through tutorials on Global Campus 😼<br>💬 Ask me about WordPress<br>⚡ Fun fact - I love teaching youngsters to ride horses
 
 
 # 💻 Tech Stack:
